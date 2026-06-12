@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Sidra Fatima 👋
 
-<!--
-**sidrafatima786/sidrafatima786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+📊 PGECET 2025 Rank: 59  
+📈 Percentile: 99.35%
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+- Python
+- PHP
+- MongoDB
+- SQL
+- Java
+- C Programming
+- HTML, CSS, JavaScript
+- TypeScript
+
+## 🤖 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Augmented Reality
+- Web Development
+
+## 🚀 Projects
+
+### 🚗 Driver Drowsiness Detection System
+A real-time computer vision system that detects driver fatigue and improves road safety.
+
+### 💧 Water Quality Prediction
+Machine learning model for predicting water quality parameters.
+
+### 📚 Interactive AR Learning Modules
+Augmented Reality learning system for educational accessibility.
+
+### 📋 Attendance Management System
+Attendance tracking system developed using PHP and MongoDB.
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/sidrafatima786
+
+⭐ Always learning and building new things!
